@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Jesica Alfonso 👋</h1>
+<h3 align="center">Estudiante de Ingeniería en Informática | Fullstack Developer en formación</h3>
 
-<!--
-**JesicaBelenAlfonso/JesicaBelenAlfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+en+Inform%C3%A1tica+%40+UNAJ;Fullstack+Developer+en+formaci%C3%B3n;C%23+%7C+Node.js+%7C+React" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 Sobre mí
+
+Actualmente estudiante de **Ingeniería en Informática** en la Universidad Nacional Arturo Jauretche (UNAJ), con formación en desarrollo backend con C# y Node.js, y en frontend con HTML, CSS, JavaScript y React. Me encanta seguir aprendiendo y sumar nuevas herramientas para crecer como desarrolladora fullstack.
+
+- 🎓 Ingeniería en Informática — UNAJ (en curso)
+- 🏫 Formación — Instituto Don Orione
+- 💻 Full Stack Developer — ITBA (en curso)
+- 📜 Curso de Formación Profesional: Pensamiento Computacional (Algoritmos) — CFL 402
+- 📜 Curso de Formación Profesional: Programador Web (HTML, CSS, PHP, SQL y JS)
+- 🌱 Aprendiendo actualmente: **Full Stack con MongoDB, SQL, React y Node.js**
+- 💬 Preguntame sobre: C#, Node.js, React, HTML, CSS, JavaScript
+
+---
+
+### 🧰 Stack y herramientas
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Bases de datos**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💡 Proyectos destacados
+
+> 🚧 Próximamente: estoy trabajando en mis primeros proyectos del curso Full Stack. ¡Pronto vas a verlos acá!
+
+<!-- Cuando tengas proyectos, usá este formato:
+
+- **🛒 Nombre del proyecto**
+  `React` `Node.js` `MongoDB`
+  Breve descripción de qué hace el proyecto.
+
 -->
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" alt="streak stats" />
+</p>
+
+---
+
+### 📫 Contacto
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesicaalfonso2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesicaBelenAlfonso)
+
+
+<p align="center"><i>Gracias por visitar mi perfil ⭐</i></p>
