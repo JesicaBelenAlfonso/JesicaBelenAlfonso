@@ -15,7 +15,7 @@
 
 Soy estudiante de **Ingeniería en Informática** en la Universidad Nacional Arturo Jauretche (UNAJ). Tengo formación en backend con **C#** y **Node.js**, y en frontend con **HTML, CSS, JavaScript y React**. Actualmente estoy cursando Full Stack Developer en el ITBA, y me gusta seguir aprendiendo y sumando herramientas para crecer como desarrolladora fullstack.
 
-- 🌱 Aprendiendo actualmente: **Full Stack con Node.js, React, MongoDB y SQL**
+- 🌱 Aprendiendo actualmente: **Full Stack con Node.js, React, MongoDB**
 - 💬 Preguntame sobre: C#, Node.js, React, HTML, CSS y JavaScript
 - 🎯 Objetivo: construir proyectos reales y conseguir mi primera experiencia profesional como desarrolladora
 
@@ -27,9 +27,9 @@ Soy estudiante de **Ingeniería en Informática** en la Universidad Nacional Art
 |---|---|---|
 | UNAJ | Ingeniería en Informática | En curso |
 | ITBA | Full Stack Developer | En curso |
-| Instituto Don Orione | Formación secundaria / técnica | Completado |
+| Instituto Don Orione | Formación secundaria | Completado |
 | CFL 402 | Pensamiento Computacional (Algoritmos) | Completado |
-| Formación Profesional | Programador Web (HTML, CSS, PHP, SQL y JS) | Completado |
+| CFL 402 | Programador Web (HTML, CSS, PHP, SQL y JS) | Completado |
 
 ---
 
