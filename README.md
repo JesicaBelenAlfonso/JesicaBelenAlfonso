@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Estudiante+de+Ing.+en+Inform%C3%A1tica+%40+UNAJ;Fullstack+Developer+en+formaci%C3%B3n;C%23+%7C+Node.js+%7C+React+%7C+MongoDB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JesicaBelenAlfonso&label=Visitas&color=2F80ED&style=flat" alt="Contador de visitas" />
-</p>
+
 
 ---
 
